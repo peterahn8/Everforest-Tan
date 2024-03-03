@@ -1,0 +1,12 @@
+{
+  "name": "everforest-tan",
+  "version": "1.0.0",
+  "description": "Firefox theme based on Everforest palette: https://github.com/sainnhe/everforest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
